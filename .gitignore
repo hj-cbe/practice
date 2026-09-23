@@ -1,0 +1,4 @@
+# MAESTRO calculation outputs and transient logs
+h2_d2_energy_work/
+h2_d2_energy_submit.log
+.maestro/

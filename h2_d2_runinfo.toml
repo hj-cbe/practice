@@ -1,0 +1,5 @@
+# Local run information for the PySCF-only H2 + D2 calculation.
+# Keeping this file local avoids validating unrelated site engines.
+
+[resources]
+time = "00:30:00"
