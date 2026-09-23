@@ -3,3 +3,12 @@
 
 [resources]
 time = "00:30:00"
+
+[resources.pyscf]
+cores = 1
+
+[resources.geometric]
+cores = 1
+
+[resources.python]
+cores = 1
